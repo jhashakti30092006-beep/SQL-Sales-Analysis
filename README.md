@@ -15,14 +15,13 @@ The dataset used in this project is taken from Kaggle.
 - Data exploration
 - Top 10 customers by sales
 - Total sales calculation
-- Sales by region
+- Sales by country
 - Customer purchase analysis
 - Product revenue ranking
 - Average order value
 - Top 10 products by revenue
 
-## Project Structure
-dataset → raw dataset file  
+## Project Structure 
 sql → SQL queries used for analysis  
 images → screenshots of SQL results  
 
